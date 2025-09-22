@@ -1,7 +1,7 @@
 <h1 align="center">APP - Jetpack composer Sqlite</h1>
 
 <p align="center">
-  <img src="" alt="Logo Magic Notes" width="200" style="border: 4px solid #ffff; border-radius: 10px;"/>
+  <img src="" alt="Logo sqlite" width="200" style="border: 4px solid #ffff; border-radius: 10px;"/>
 </p>
 
 ---
