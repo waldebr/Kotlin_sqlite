@@ -1,7 +1,7 @@
 <h1 align="center">APP - Jetpack composer Sqlite</h1>
 
 <p align="center">
-  <img src="https://developer.android.com/static/codelabs/basic-android-kotlin-compose-build-a-dice-roller-app/img/3e9a9f44c6c84634_856.png?hl=pt-br" alt="Logo Magic Notes" width="200" style="border: 4px solid #ffff; border-radius: 10px;"/>
+  <img src="" alt="Logo Magic Notes" width="200" style="border: 4px solid #ffff; border-radius: 10px;"/>
 </p>
 
 ---
